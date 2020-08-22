@@ -1,1 +1,1 @@
-Нужно открыть на сайте Jupyter
+Нужно открыть через Jupyter notebook
